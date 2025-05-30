@@ -1,0 +1,29 @@
+#  How to link you git in local host 
+
+fist : copy link from git 
+second : in terminal where you want to add write command :  git clone link_that_you_copied
+third : you repo is cloned 
+
+
+# How add changed or new file in git 
+fist : use command git add file_name   || if want to add hole at once use command : git add .
+
+
+# How to push your code in git repo 
+fist : git commit -m "Your message"
+second : git push origin main
+		now your code is pushed in repo !
+
+# To check you status of files use command: ls     	|| ls -a : is used for showing file or hidden file tooo
+
+# To check status of your file use command : git status
+
+# cls for clear your cmd
+
+
+
+
+
+
+
+
